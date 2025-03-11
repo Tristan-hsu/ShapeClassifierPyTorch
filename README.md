@@ -52,7 +52,9 @@ ShapeClassifierPyTorch/
    ```bash
    git clone https://github.com/your-user/your-repo-name.git
 2. **Virtual environment**
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. **Install dependencies**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
