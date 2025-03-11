@@ -1,6 +1,20 @@
 # ShapeClassifierPyTorch
+This repository contains two parts:
 
-# Probability & Statistics + Basic Shape Classifier
+1. **Probability and Statistics Exercises**  
+   Implemented in [`first_two_question.ipynb`](./first_two_question.ipynb).
+   This is an notebook illustrating two questions—one on probability and one on causal reasoning—along with brief computations and explanations.
+
+
+2. **Basic Shape Classifier**  
+   Implemented in [`Shape_Classifier.ipynb`](./Shape_Classifier.ipynb).
+    "In this notebook, we:\n",
+    "1. Generate a dataset of shape images using the PIL library (e.g., circles, squares, triangles).\n",
+    "2. Build a simple image classifier based on the AlexNet architecture.\n",
+    "3. Train the model using SGD.\n",
+    "4. Evaluate accuracy and discuss the results."
+
+
 ````
 ShapeClassifierPyTorch/
 ├── README.md
@@ -21,20 +35,7 @@ ShapeClassifierPyTorch/
         ├── t2.png
         └── ...
 ````
-This repository contains two parts:
 
-1. **Probability and Statistics Exercises**  
-   Implemented in [`first_two_question.ipynb`](./first_two_question.ipynb).
-   This is an notebook illustrating two questions—one on probability and one on causal reasoning—along with brief computations and explanations.
-
-
-2. **Basic Shape Classifier**  
-   Implemented in [`Shape_Classifier.ipynb`](./Shape_Classifier.ipynb).
-    "In this notebook, we:\n",
-    "1. Generate a dataset of shape images using the PIL library (e.g., circles, squares, triangles).\n",
-    "2. Build a simple image classifier based on the AlexNet architecture.\n",
-    "3. Train the model using SGD.\n",
-    "4. Evaluate accuracy and discuss the results."
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
