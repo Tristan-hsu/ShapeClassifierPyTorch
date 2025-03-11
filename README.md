@@ -15,7 +15,7 @@ This repository contains two parts:
     4. Evaluate accuracy and discuss the results.
 
 Attention: 
-   dataset should be set as the following form.  
+   dataset should be set as the following form and there are only one data for each docfile to show the data structure.
 
 ````
 ShapeClassifierPyTorch/
