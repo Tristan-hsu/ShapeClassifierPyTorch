@@ -18,8 +18,9 @@ This repository contains two parts:
 ````
 ShapeClassifierPyTorch/
 ├── README.md
+├── AlexNet200.pt
 ├── requirements.txt
-├── first_two_question.ipynb
+├── First_Two_Question.ipynb
 ├── Shape_Classifier.ipynb
 └── dataset/
     ├── circle/
