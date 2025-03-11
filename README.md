@@ -8,11 +8,11 @@ This repository contains two parts:
 
 2. **Basic Shape Classifier**  
    Implemented in [`Shape_Classifier.ipynb`](./Shape_Classifier.ipynb).
-    "In this notebook, we:\n",
-    "1. Generate a dataset of shape images using the PIL library (e.g., circles, squares, triangles).\n",
-    "2. Build a simple image classifier based on the AlexNet architecture.\n",
-    "3. Train the model using SGD.\n",
-    "4. Evaluate accuracy and discuss the results."
+    In this notebook, we:
+    1. Generate a dataset of shape images using the PIL library (e.g., circles, squares, triangles).
+    2. Build a simple image classifier based on the AlexNet architecture.
+    3. Train the model using SGD
+    4. Evaluate accuracy and discuss the results.
 
 
 ````
