@@ -14,11 +14,12 @@ This repository contains two parts:
     3. Train the model using SGD
     4. Evaluate accuracy and discuss the results.
 
+Attention: 
+   dataset should be set as the following form.  
 
 ````
 ShapeClassifierPyTorch/
 ├── README.md
-├── AlexNet200.pt
 ├── requirements.txt
 ├── First_Two_Question.ipynb
 ├── Shape_Classifier.ipynb
