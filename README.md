@@ -1,7 +1,7 @@
 # ShapeClassifierPyTorch
 
 # Probability & Statistics + Basic Shape Classifier
-
+````
 ShapeClassifierPyTorch/
 ├── README.md
 ├── requirements.txt
@@ -20,7 +20,7 @@ ShapeClassifierPyTorch/
         ├── t1.png
         ├── t2.png
         └── ...
-
+````
 This repository contains two parts:
 
 1. **Probability and Statistics Exercises**  
