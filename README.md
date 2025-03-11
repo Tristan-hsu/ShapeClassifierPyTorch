@@ -9,17 +9,17 @@ ShapeClassifierPyTorch/
 ├── Shape_Classifier.ipynb
 └── dataset/
     ├── circle/
-        ├── c1.png
-        ├── c2.png
-        ├── ...
+    │   ├── c1.png
+    │   ├── c2.png
+    │   └── ...
     ├── square/
-        ├── s1.png
-        ├── s2.png
-        ├── ...
+    │   ├── s1.png
+    │   ├── s2.png
+    │   └── ...
     └── triangle/
         ├── t1.png
         ├── t2.png
-        ├── ...
+        └── ...
 
 This repository contains two parts:
 
